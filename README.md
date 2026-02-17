@@ -6,4 +6,8 @@ Target variable (outcome): net revenue collections)
 Models: Linear Regression and Random Forest
 Evaluation metrics: RMSE, MAE, R²
 
+# Repository Structure
+`Raw data.csv` : input dataset
+`US Government tax.ipynb` : analysis 
+`results/figures/` : generated plots  (e.g., actual vs predicted plots, residual plots, correlation heatmap, feature importances).
 
